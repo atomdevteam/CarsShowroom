@@ -1,11 +1,12 @@
 import { useState } from 'react'
+import CarSaleLayout from './Layout/CarSale/CarSaleLayout'
 
 function App() {
- 
+
   return (
-    <>
-    <h1 className='bg-black text-4xl text-white'>Hola mundo</h1>
-    </>
+    <div className=''>
+      <CarSaleLayout />
+    </div>
   )
 }
 
