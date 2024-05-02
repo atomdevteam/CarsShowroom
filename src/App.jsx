@@ -1,12 +1,18 @@
 import { useState } from 'react'
+import Footer from './Layout/Footer/Footer'
+import CarSaleLayout from './Layout/CarSale/CarSaleLayout'
 
 import BuyCarLayout from './Layout/BuyCarLayout/BuyCarLayout'
 function App() {
 
   return (
     <>
-      <BuyCarLayout />
+      <div className=''>
+        <CarSaleLayout />
+      </div>
+      <Footer />
     </>
+
   )
 }
 
