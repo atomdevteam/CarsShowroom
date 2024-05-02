@@ -5,9 +5,10 @@ import CarSaleLayout from './Layout/CarSale/CarSaleLayout'
 function App() {
 
   return (
-    <>  <div className=''>
-      <CarSaleLayout />
-    </div>
+    <>
+      <div className=''>
+        <CarSaleLayout />
+      </div>
       <Footer />
     </>
 
