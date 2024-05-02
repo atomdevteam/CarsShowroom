@@ -1,10 +1,11 @@
 import { useState } from 'react'
+import ContactLayout from './Layout/ContactLayout/ContactLayout'
 
 function App() {
- 
+
   return (
     <>
-    <h1 className='bg-black text-4xl text-white'>Hola mundo</h1>
+      <ContactLayout />
     </>
   )
 }
