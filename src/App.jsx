@@ -5,8 +5,12 @@ function App() {
 
   return (
     <>
-      <ContactLayout />
+      <div className=''>
+        <ContactLayout />
+      </div>
+      <Footer />
     </>
+
   )
 }
 
