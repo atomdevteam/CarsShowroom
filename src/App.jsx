@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import ContactLayout from './Layout/ContactLayout/ContactLayout'
+import Footer from './Layout/Footer/Footer'
 
 function App() {
 
