@@ -1,4 +1,3 @@
 # CarsShowroom
-## Administradores
-
+## Administrators
 - jose22gonzalez
